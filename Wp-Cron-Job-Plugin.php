@@ -4,6 +4,7 @@ Plugin Name: Wp Cron Job Plugin for Daily WooCommerce Commission Transfer
 Description: The Cron Job Plugin for Daily WooCommerce Commission Transfer is designed to automatically transfer funds to vendors daily using the Stripe payment gateway. It schedules a cron job that runs daily to process commissions marked as 'due' and transfer the corresponding amounts to the vendors' Stripe accounts.
 Version: 1.0
 Author: Umar Khtab
+Author URI: https://www.linkedin.com/in/umar-khtab-a6b96317b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 */
 // Function to transfer funds to vendors
 function transfer_funds_to_vendors()
